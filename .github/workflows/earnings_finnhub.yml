@@ -37,8 +37,8 @@ jobs:
 
       - name: Run Fetch Finnhub earnings bot
         env:
-          DISCORD_TOKEN:   ${{ secrets.DISCORD_TOKEN }}
-          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+          DISCORD_TOKEN:   ${{ vars.DISCORD_TOKEN }}
+          FINNHUB_TOKEN: ${{ vars.FINNHUB_TOKEN }}
           DISCORD_EARNINGS_WEBHOOK: ${{ vars.DISCORD_EARNINGS_WEBHOOK }}
         run: node earnings/fetchEarningsFromFinnhub.mjs
       
