@@ -14042,5 +14042,57 @@
   {
     "symbol": "SIG",
     "date": "2025-09-02"
+  },
+  {
+    "symbol": "GAP",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "OLLI",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "BURL",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "GLMD",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "EDAP",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "DKS",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "ULTA",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "BBW",
+    "date": "2025-08-28"
+  },
+  {
+    "symbol": "ENLV",
+    "date": "2025-08-29"
+  },
+  {
+    "symbol": "FRO",
+    "date": "2025-08-29"
+  },
+  {
+    "symbol": "CASI",
+    "date": "2025-08-29"
+  },
+  {
+    "symbol": "CELU",
+    "date": "2025-08-29"
+  },
+  {
+    "symbol": "CHA",
+    "date": "2025-08-29"
   }
 ]
