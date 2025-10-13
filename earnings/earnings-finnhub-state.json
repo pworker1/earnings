@@ -15018,5 +15018,21 @@
   {
     "symbol": "FAST",
     "date": "2025-10-13"
+  },
+  {
+    "symbol": "MKC",
+    "date": "2025-10-07"
+  },
+  {
+    "symbol": "SAR",
+    "date": "2025-10-07"
+  },
+  {
+    "symbol": "PENG",
+    "date": "2025-10-07"
+  },
+  {
+    "symbol": "USNA",
+    "date": "2025-10-09"
   }
 ]
