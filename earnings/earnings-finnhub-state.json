@@ -15418,5 +15418,49 @@
   {
     "symbol": "COSO",
     "date": "2025-10-20"
+  },
+  {
+    "symbol": "RCON",
+    "date": "2025-10-14"
+  },
+  {
+    "symbol": "ACI",
+    "date": "2025-10-14"
+  },
+  {
+    "symbol": "BNAI",
+    "date": "2025-10-14"
+  },
+  {
+    "symbol": "LOOP",
+    "date": "2025-10-15"
+  },
+  {
+    "symbol": "PGR",
+    "date": "2025-10-15"
+  },
+  {
+    "symbol": "WAFD",
+    "date": "2025-10-16"
+  },
+  {
+    "symbol": "CBSH",
+    "date": "2025-10-16"
+  },
+  {
+    "symbol": "CWBC",
+    "date": "2025-10-16"
+  },
+  {
+    "symbol": "BANF",
+    "date": "2025-10-17"
+  },
+  {
+    "symbol": "BOKF",
+    "date": "2025-10-19"
+  },
+  {
+    "symbol": "CLBK",
+    "date": "2025-10-20"
   }
 ]
