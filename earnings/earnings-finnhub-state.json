@@ -16130,5 +16130,41 @@
   {
     "symbol": "EGBN",
     "date": "2025-10-22"
+  },
+  {
+    "symbol": "PCG",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "TRU",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "CNP",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "HON",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "DOW",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "THRM",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "TPH",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "ALLE",
+    "date": "2025-10-23"
+  },
+  {
+    "symbol": "WST",
+    "date": "2025-10-23"
   }
 ]
