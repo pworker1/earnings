@@ -17222,5 +17222,69 @@
   {
     "symbol": "MSCI",
     "date": "2025-10-28"
+  },
+  {
+    "symbol": "PFG",
+    "date": "2025-10-27"
+  },
+  {
+    "symbol": "SOFI",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "CECO",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "IQV",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "PYPL",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "SHW",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "MMYT",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "JBLU",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "PERF",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "NEO",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "AMT",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "ALKS",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "W",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "INCY",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "IVZ",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "GLW",
+    "date": "2025-10-28"
   }
 ]
