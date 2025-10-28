@@ -17098,5 +17098,61 @@
   {
     "symbol": "FSUN",
     "date": "2025-10-27"
+  },
+  {
+    "symbol": "AMTB",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "AWI",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "GPI",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "EDU",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "UNH",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "PROV",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "AXTA",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "VFC",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "UPS",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "CHKP",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "SFD",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "PII",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "CARR",
+    "date": "2025-10-28"
+  },
+  {
+    "symbol": "ARCC",
+    "date": "2025-10-28"
   }
 ]
