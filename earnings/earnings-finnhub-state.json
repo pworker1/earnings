@@ -18998,5 +18998,61 @@
   {
     "symbol": "DTM",
     "date": "2025-10-30"
+  },
+  {
+    "symbol": "MA",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "TALK",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "NSIT",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "CMLS",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "LBTYA",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "FSS",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "NMRK",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "GBLI",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "IDA",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "SILC",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "CRAI",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "MPW",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "ALNY",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "PATK",
+    "date": "2025-10-30"
   }
 ]
