@@ -18538,5 +18538,77 @@
   {
     "symbol": "NWE",
     "date": "2025-10-29"
+  },
+  {
+    "symbol": "FMC",
+    "date": "2025-10-29"
+  },
+  {
+    "symbol": "DBRG",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "KBR",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "CI",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "LNC",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "AMRX",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "BIIB",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "FCFS",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "GEL",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "IART",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "XEL",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "EPD",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "EL",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "LXP",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "TT",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "WTW",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "WCC",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "PRM",
+    "date": "2025-10-30"
   }
 ]
