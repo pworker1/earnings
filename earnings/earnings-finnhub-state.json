@@ -19658,5 +19658,33 @@
   {
     "symbol": "RPT",
     "date": "2025-10-31"
+  },
+  {
+    "symbol": "BJRI",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "CHD",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "TROW",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "OIS",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "CHTR",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "PIPR",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "WT",
+    "date": "2025-10-31"
   }
 ]
