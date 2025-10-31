@@ -19574,5 +19574,33 @@
   {
     "symbol": "TBBK",
     "date": "2025-10-30"
+  },
+  {
+    "symbol": "FET",
+    "date": "2025-10-30"
+  },
+  {
+    "symbol": "PRLB",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "POR",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "LIN",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "CVX",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "NWL",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "TILE",
+    "date": "2025-10-31"
   }
 ]
