@@ -19602,5 +19602,41 @@
   {
     "symbol": "TILE",
     "date": "2025-10-31"
+  },
+  {
+    "symbol": "ALE",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "BFLY",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "OMF",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "LEA",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "EEX",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "XOM",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "XHR",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "AON",
+    "date": "2025-10-31"
+  },
+  {
+    "symbol": "CVEO",
+    "date": "2025-10-31"
   }
 ]
