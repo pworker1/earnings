@@ -24582,5 +24582,33 @@
   {
     "symbol": "PCT",
     "date": "2025-11-06"
+  },
+  {
+    "symbol": "OPAL",
+    "date": "2025-11-06"
+  },
+  {
+    "symbol": "GTN",
+    "date": "2025-11-07"
+  },
+  {
+    "symbol": "ACRE",
+    "date": "2025-11-07"
+  },
+  {
+    "symbol": "AIRS",
+    "date": "2025-11-07"
+  },
+  {
+    "symbol": "CTEV",
+    "date": "2025-11-07"
+  },
+  {
+    "symbol": "RPID",
+    "date": "2025-11-07"
+  },
+  {
+    "symbol": "FLR",
+    "date": "2025-11-07"
   }
 ]
