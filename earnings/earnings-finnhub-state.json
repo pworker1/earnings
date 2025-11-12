@@ -26242,5 +26242,309 @@
   {
     "symbol": "NSTM",
     "date": "2025-11-12"
+  },
+  {
+    "symbol": "FLY",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AVIR",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ORKA",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "KRMD",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "GRAL",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "HTFL",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "MDXH",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SRFM",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "INLX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "FLUT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SERV",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ARDT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "TLPH",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "PAGS",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AQMS",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "GCTS",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DMAC",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CXAI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "IZEA",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "FIHL",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CCAP",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SCWO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "LFT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "TGEN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "BRTX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "OTCM",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SLS",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "WORX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SLND",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CELC",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SSTI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "PAYS",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "BCDA",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "LPA",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SOBR",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DLPN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "IPM",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SNAL",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "WRAP",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DGII",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "IBTA",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ELMD",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DLO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DYAI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "IMRX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "FVR",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "SVCO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "MPTI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AP",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "BSFC",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AIRG",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "RMR",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ALVO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CYCN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ATEX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "KLC",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ABSI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "TATT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "EGAN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CLBT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AENT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "TWFG",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CSCO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AERG",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "WBTN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ALMU",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "LUNG",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "USIO",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "DERM",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "CURI",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AIRT",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "KYTX",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "IDN",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ASND",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "ARMP",
+    "date": "2025-11-12"
+  },
+  {
+    "symbol": "AASP",
+    "date": "2025-11-12"
   }
 ]
