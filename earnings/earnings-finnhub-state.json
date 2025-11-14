@@ -26978,5 +26978,33 @@
   {
     "symbol": "ABTC",
     "date": "2025-11-14"
+  },
+  {
+    "symbol": "SR",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "VS",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "MRSN",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "SBC",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "TWST",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "SRRK",
+    "date": "2025-11-14"
+  },
+  {
+    "symbol": "ITRM",
+    "date": "2025-11-14"
   }
 ]
