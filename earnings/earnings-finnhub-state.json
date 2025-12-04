@@ -29498,5 +29498,57 @@
   {
     "symbol": "HOV",
     "date": "2025-12-04"
+  },
+  {
+    "symbol": "TTAN",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "SFIX",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "CHPT",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "S",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "HPE",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "DOMO",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "AGX",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "RBRK",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "IDT",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "COO",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "IOT",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "DOCU",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "SWBI",
+    "date": "2025-12-04"
   }
 ]
