@@ -29550,5 +29550,105 @@
   {
     "symbol": "SWBI",
     "date": "2025-12-04"
+  },
+  {
+    "symbol": "GLBS",
+    "date": "2025-11-28"
+  },
+  {
+    "symbol": "VMAR",
+    "date": "2025-11-28"
+  },
+  {
+    "symbol": "NAT",
+    "date": "2025-11-28"
+  },
+  {
+    "symbol": "CHA",
+    "date": "2025-11-28"
+  },
+  {
+    "symbol": "CANG",
+    "date": "2025-12-01"
+  },
+  {
+    "symbol": "TRX",
+    "date": "2025-12-01"
+  },
+  {
+    "symbol": "CTRN",
+    "date": "2025-12-02"
+  },
+  {
+    "symbol": "NIPG",
+    "date": "2025-12-02"
+  },
+  {
+    "symbol": "PSHG",
+    "date": "2025-12-02"
+  },
+  {
+    "symbol": "LESL",
+    "date": "2025-12-02"
+  },
+  {
+    "symbol": "CURV",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "PVH",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "M",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "WDH",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "WOOF",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "DLTR",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "FIVE",
+    "date": "2025-12-03"
+  },
+  {
+    "symbol": "SPWH",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "KNOP",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "ZUMZ",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "TIGR",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "DG",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "ULTA",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "KR",
+    "date": "2025-12-04"
+  },
+  {
+    "symbol": "BBW",
+    "date": "2025-12-04"
   }
 ]
