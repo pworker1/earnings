@@ -29918,5 +29918,97 @@
   {
     "symbol": "RENT",
     "date": "2025-12-12"
+  },
+  {
+    "symbol": "YEXT",
+    "date": "2025-12-08"
+  },
+  {
+    "symbol": "VNCE",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "PLAY",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "LE",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "GME",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "BLLN",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "CAL",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "CBRL",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "DBI",
+    "date": "2025-12-09"
+  },
+  {
+    "symbol": "OCCI",
+    "date": "2025-12-10"
+  },
+  {
+    "symbol": "JILL",
+    "date": "2025-12-10"
+  },
+  {
+    "symbol": "USAU",
+    "date": "2025-12-10"
+  },
+  {
+    "symbol": "OXM",
+    "date": "2025-12-10"
+  },
+  {
+    "symbol": "ESOA",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "FIZZ",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "IMPP",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "LULU",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "HOFT",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "NTRB",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "CMTL",
+    "date": "2025-12-11"
+  },
+  {
+    "symbol": "AXR",
+    "date": "2025-12-12"
+  },
+  {
+    "symbol": "EDSA",
+    "date": "2025-12-12"
+  },
+  {
+    "symbol": "PFX",
+    "date": "2025-12-12"
   }
 ]
