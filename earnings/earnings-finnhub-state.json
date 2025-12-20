@@ -30182,5 +30182,69 @@
   {
     "symbol": "BDL",
     "date": "2025-12-19"
+  },
+  {
+    "symbol": "KSPI",
+    "date": "2025-12-14"
+  },
+  {
+    "symbol": "NAVN",
+    "date": "2025-12-15"
+  },
+  {
+    "symbol": "ELWT",
+    "date": "2025-12-15"
+  },
+  {
+    "symbol": "HSCS",
+    "date": "2025-12-15"
+  },
+  {
+    "symbol": "PLCE",
+    "date": "2025-12-16"
+  },
+  {
+    "symbol": "TBHC",
+    "date": "2025-12-16"
+  },
+  {
+    "symbol": "GIS",
+    "date": "2025-12-17"
+  },
+  {
+    "symbol": "SPIR",
+    "date": "2025-12-17"
+  },
+  {
+    "symbol": "VERU",
+    "date": "2025-12-17"
+  },
+  {
+    "symbol": "SDA",
+    "date": "2025-12-18"
+  },
+  {
+    "symbol": "NKE",
+    "date": "2025-12-18"
+  },
+  {
+    "symbol": "FCEL",
+    "date": "2025-12-18"
+  },
+  {
+    "symbol": "CAG",
+    "date": "2025-12-19"
+  },
+  {
+    "symbol": "YCBD",
+    "date": "2025-12-19"
+  },
+  {
+    "symbol": "CCL",
+    "date": "2025-12-19"
+  },
+  {
+    "symbol": "OTLK",
+    "date": "2025-12-19"
   }
 ]
