@@ -30410,5 +30410,29 @@
   {
     "symbol": "UNTY",
     "date": "2026-01-13"
+  },
+  {
+    "symbol": "SAR",
+    "date": "2026-01-06"
+  },
+  {
+    "symbol": "ACI",
+    "date": "2026-01-07"
+  },
+  {
+    "symbol": "MPLT",
+    "date": "2026-01-09"
+  },
+  {
+    "symbol": "ANIX",
+    "date": "2026-01-12"
+  },
+  {
+    "symbol": "DAL",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "BK",
+    "date": "2026-01-13"
   }
 ]
