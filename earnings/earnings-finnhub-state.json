@@ -30570,5 +30570,33 @@
   {
     "symbol": "BOKF",
     "date": "2026-01-16"
+  },
+  {
+    "symbol": "WLTH",
+    "date": "2026-01-12"
+  },
+  {
+    "symbol": "SOTK",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "LEXX",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "BPTH",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "BMNR",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "TRX",
+    "date": "2026-01-13"
+  },
+  {
+    "symbol": "WAFD",
+    "date": "2026-01-15"
   }
 ]
