@@ -32762,5 +32762,41 @@
   {
     "symbol": "FMCB",
     "date": "2026-02-02"
+  },
+  {
+    "symbol": "INGR",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "CRVL",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "EPD",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "ADM",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "ATKR",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "IT",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "PAX",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "AUDC",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "BALL",
+    "date": "2026-02-03"
   }
 ]
