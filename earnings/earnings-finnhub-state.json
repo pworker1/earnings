@@ -32798,5 +32798,25 @@
   {
     "symbol": "BALL",
     "date": "2026-02-03"
+  },
+  {
+    "symbol": "ETN",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "MPC",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "GPK",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "MRK",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "MPLX",
+    "date": "2026-02-03"
   }
 ]
