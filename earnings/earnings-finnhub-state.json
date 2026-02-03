@@ -32842,5 +32842,37 @@
   {
     "symbol": "RES",
     "date": "2026-02-03"
+  },
+  {
+    "symbol": "AME",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "PYPL",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "TDG",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "BRBR",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "HLNE",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "SR",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "BR",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "JJSF",
+    "date": "2026-02-03"
   }
 ]
