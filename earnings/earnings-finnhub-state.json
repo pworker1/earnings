@@ -33250,5 +33250,77 @@
   {
     "symbol": "BAM",
     "date": "2026-02-04"
+  },
+  {
+    "symbol": "WTW",
+    "date": "2026-02-03"
+  },
+  {
+    "symbol": "CDW",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "NYT",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "LEA",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "VSH",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "REYN",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "JCI",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "ODFL",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "RSVR",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "PFGC",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "FLEX",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "CME",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "YUM",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "UBER",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "VVV",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "TROW",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "IEX",
+    "date": "2026-02-04"
+  },
+  {
+    "symbol": "PSX",
+    "date": "2026-02-04"
   }
 ]
