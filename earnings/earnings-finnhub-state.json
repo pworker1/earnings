@@ -33706,5 +33706,45 @@
   {
     "symbol": "MKL",
     "date": "2026-02-04"
+  },
+  {
+    "symbol": "LPG",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "LIN",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "CARR",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "HAE",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "FCFS",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "EL",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "CI",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "RGS",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "PBH",
+    "date": "2026-02-05"
+  },
+  {
+    "symbol": "XEL",
+    "date": "2026-02-05"
   }
 ]
