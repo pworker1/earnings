@@ -36342,5 +36342,45 @@
   {
     "symbol": "EXAS",
     "date": "2026-02-13"
+  },
+  {
+    "symbol": "OTTR",
+    "date": "2026-02-16"
+  },
+  {
+    "symbol": "RNW",
+    "date": "2026-02-16"
+  },
+  {
+    "symbol": "SON",
+    "date": "2026-02-16"
+  },
+  {
+    "symbol": "AHH",
+    "date": "2026-02-16"
+  },
+  {
+    "symbol": "ALLE",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "KNF",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "LDOS",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "BLDR",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "NESR",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "LPX",
+    "date": "2026-02-17"
   }
 ]
