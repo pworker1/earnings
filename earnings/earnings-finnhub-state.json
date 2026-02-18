@@ -36746,5 +36746,29 @@
   {
     "symbol": "FVRR",
     "date": "2026-02-18"
+  },
+  {
+    "symbol": "BENF",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "OGE",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "CSTM",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "CAMT",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "GLBE",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "FDP",
+    "date": "2026-02-18"
   }
 ]
