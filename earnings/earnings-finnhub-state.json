@@ -37146,5 +37146,45 @@
   {
     "symbol": "EQX",
     "date": "2026-02-18"
+  },
+  {
+    "symbol": "CAR",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "YETI",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "MTLS",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "MD",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "EPAM",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "LMND",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "CNP",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "THRM",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "DE",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "FUN",
+    "date": "2026-02-19"
   }
 ]
