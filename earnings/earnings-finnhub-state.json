@@ -37686,5 +37686,165 @@
   {
     "symbol": "WGS",
     "date": "2026-02-23"
+  },
+  {
+    "symbol": "PGC",
+    "date": "2026-02-16"
+  },
+  {
+    "symbol": "OTLK",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "IDYA",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "ATHR",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "NNVC",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "CNVS",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "COGT",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "NEUP",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "POR",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "SSTK",
+    "date": "2026-02-17"
+  },
+  {
+    "symbol": "NAMS",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "BRSP",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "TNK",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "PKST",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "QTI",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "EBAY",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "WINA",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "ARR",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "BKD",
+    "date": "2026-02-18"
+  },
+  {
+    "symbol": "TECK",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "JAKK",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "IRTC",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "SYRE",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "EQX",
+    "date": "2026-02-19"
+  },
+  {
+    "symbol": "FNF",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "TDS",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "BBWI",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "FOLD",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "AD",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "ESAB",
+    "date": "2026-02-20"
+  },
+  {
+    "symbol": "FRPT",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "VRE",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "D",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "CRGO",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "DPZ",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "AMC",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "DEA",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "IE",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "IBRX",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "DFH",
+    "date": "2026-02-23"
   }
 ]
