@@ -38242,5 +38242,285 @@
   {
     "symbol": "EXPD",
     "date": "2026-02-24"
+  },
+  {
+    "symbol": "PSTL",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CORT",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "GIC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "TMDX",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "BBIO",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "EXLS",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CLNE",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "REZI",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "TALO",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CSGP",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "GPOR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MQ",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "EXPI",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "NMFC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "O",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SEI",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "UVE",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LAB",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "TYGO",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SLRC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CYTK",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "FVR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "INGN",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "TREX",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CCC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MTDR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "TEM",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "UIS",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "DAWN",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "RVLV",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CAVA",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "FSLR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SPXC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SILA",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LTC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "UFPT",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "RCKY",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "GDDY",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "EVH",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MATX",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MMSI",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "FLYW",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SLDE",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "VRRM",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "BXC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "PARR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SLDP",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MOS",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "AII",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ATEC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "JAZZ",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ABCL",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CBLL",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CWH",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "NVTS",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SUPN",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LAND",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SKT",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "HPQ",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "RRC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "GMED",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ATRO",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LCID",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CDNA",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SUI",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "HURN",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LNW",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "PCVX",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ECG",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "IGIC",
+    "date": "2026-02-24"
   }
 ]
