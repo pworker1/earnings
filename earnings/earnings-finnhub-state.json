@@ -40234,5 +40234,33 @@
   {
     "symbol": "LB",
     "date": "2026-02-25"
+  },
+  {
+    "symbol": "BVN",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "TLN",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "AMRX",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "INTT",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "ESCA",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "NWN",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "BTSG",
+    "date": "2026-02-27"
   }
 ]
