@@ -40350,5 +40350,357 @@
   {
     "symbol": "FRO",
     "date": "2026-02-27"
+  },
+  {
+    "symbol": "ORIC",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "BOOM",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "EKSO",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "GLDD",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "NOVT",
+    "date": "2026-02-23"
+  },
+  {
+    "symbol": "AXON",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "FERG",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ICON",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "FBLG",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "BEAM",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "AROC",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "CRDF",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "HD",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "MGEE",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "SAM",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "ARTL",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "LXFR",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "DDS",
+    "date": "2026-02-24"
+  },
+  {
+    "symbol": "QXO",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "GHC",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "PTGX",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "CRM",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "DXPE",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "HIPO",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "ONTF",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "EFSI",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "IONS",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "XNCR",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "INVA",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "TTI",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "LOW",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "PEN",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "GPRK",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "ALEC",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "CLDX",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "LIFE",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "HTO",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "SMHI",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "IMCR",
+    "date": "2026-02-25"
+  },
+  {
+    "symbol": "ACLX",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "DELL",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "GRND",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "CCCC",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "NCMI",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "JANX",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "TXO",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "NUVL",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "CQP",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "EWTX",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "CDRO",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "FATE",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "IBOC",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "DNA",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "NAT",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "MASI",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "IMUX",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "EHTH",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "DNLI",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "AMWD",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "GPCR",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "RC",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "REVB",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "AVR",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "VRDN",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "UUUU",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "CBIO",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "TECX",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "IRON",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "VERA",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "TRDA",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "ABTC",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "PACS",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "RCKT",
+    "date": "2026-02-26"
+  },
+  {
+    "symbol": "HEI",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "DUOL",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "TXNM",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "CCIF",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "VIA",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "CCEL",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "GTLS",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "GDEN",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "TMCI",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "AMR",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "CGON",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "LIQT",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "BFS",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "SOC",
+    "date": "2026-02-27"
+  },
+  {
+    "symbol": "KOS",
+    "date": "2026-03-02"
   }
 ]
