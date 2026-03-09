@@ -41814,5 +41814,45 @@
   {
     "symbol": "UMAC",
     "date": "2026-03-09"
+  },
+  {
+    "symbol": "AMPY",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "RPAY",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "NL",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "STXS",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "MYO",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "YEXT",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "LFMD",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "MTN",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "HPE",
+    "date": "2026-03-09"
+  },
+  {
+    "symbol": "RDNW",
+    "date": "2026-03-09"
   }
 ]
