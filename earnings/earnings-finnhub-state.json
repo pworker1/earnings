@@ -42490,5 +42490,45 @@
   {
     "symbol": "TG",
     "date": "2026-03-11"
+  },
+  {
+    "symbol": "CDXS",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "KEQU",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "SFIX",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "PATH",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "NTSK",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "FEIM",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "FTK",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "ELUT",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "ODC",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "GRDN",
+    "date": "2026-03-11"
   }
 ]
