@@ -42530,5 +42530,45 @@
   {
     "symbol": "GRDN",
     "date": "2026-03-11"
+  },
+  {
+    "symbol": "CINT",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "KLXE",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "VEL",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "TTGT",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "DSP",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "BMBL",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "CULP",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "BTMD",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "WLTH",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "DMRC",
+    "date": "2026-03-11"
   }
 ]
