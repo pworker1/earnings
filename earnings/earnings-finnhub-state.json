@@ -42606,5 +42606,21 @@
   {
     "symbol": "SRI",
     "date": "2026-03-11"
+  },
+  {
+    "symbol": "EXOD",
+    "date": "2026-03-11"
+  },
+  {
+    "symbol": "FUTU",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "SNDL",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "MUX",
+    "date": "2026-03-12"
   }
 ]
