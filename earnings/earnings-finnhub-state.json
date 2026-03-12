@@ -42734,5 +42734,25 @@
   {
     "symbol": "TIC",
     "date": "2026-03-12"
+  },
+  {
+    "symbol": "RBRK",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "SKIN",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "TOI",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "ZDGE",
+    "date": "2026-03-12"
+  },
+  {
+    "symbol": "CSBR",
+    "date": "2026-03-12"
   }
 ]
