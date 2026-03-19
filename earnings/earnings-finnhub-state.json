@@ -43722,5 +43722,37 @@
   {
     "symbol": "ACCS",
     "date": "2026-03-19"
+  },
+  {
+    "symbol": "FDX",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "SNAL",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "IDN",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "RLMD",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "UAMY",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "SCHL",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "PL",
+    "date": "2026-03-19"
+  },
+  {
+    "symbol": "ETON",
+    "date": "2026-03-19"
   }
 ]
