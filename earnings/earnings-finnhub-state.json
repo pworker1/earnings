@@ -44338,5 +44338,45 @@
   {
     "symbol": "PAYX",
     "date": "2026-03-25"
+  },
+  {
+    "symbol": "FUL",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "EQ",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "CELC",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "MLKN",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "CTSO",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "NDLS",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "WYY",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "DERM",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "NAVN",
+    "date": "2026-03-25"
+  },
+  {
+    "symbol": "ICU",
+    "date": "2026-03-25"
   }
 ]
