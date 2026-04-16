@@ -45894,5 +45894,45 @@
   {
     "symbol": "CFG",
     "date": "2026-04-16"
+  },
+  {
+    "symbol": "USB",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "KEY",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "TRV",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "MAN",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "ABT",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "BK",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "MRSH",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "IIIN",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "SCHW",
+    "date": "2026-04-16"
+  },
+  {
+    "symbol": "JKS",
+    "date": "2026-04-16"
   }
 ]
