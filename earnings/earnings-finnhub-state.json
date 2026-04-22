@@ -46814,5 +46814,41 @@
   {
     "symbol": "AZZ",
     "date": "2026-04-22"
+  },
+  {
+    "symbol": "NEU",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "MSB",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "PKG",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "FULT",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "PNFP",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "PTEN",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "OII",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "HLX",
+    "date": "2026-04-22"
+  },
+  {
+    "symbol": "LBRT",
+    "date": "2026-04-22"
   }
 ]
