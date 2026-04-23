@@ -46850,5 +46850,49 @@
   {
     "symbol": "LBRT",
     "date": "2026-04-22"
+  },
+  {
+    "symbol": "THRM",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "HON",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "TECK",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "PCG",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "TCBI",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "TMO",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "WST",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "DOW",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "FCFS",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "CNP",
+    "date": "2026-04-23"
+  },
+  {
+    "symbol": "TAL",
+    "date": "2026-04-23"
   }
 ]
