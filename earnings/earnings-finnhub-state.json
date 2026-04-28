@@ -47830,5 +47830,57 @@
   {
     "symbol": "NOV",
     "date": "2026-04-27"
+  },
+  {
+    "symbol": "SFD",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "NAUT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "ARCB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "AWI",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "PII",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "PROV",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "ALLE",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "AB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "UPS",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "HLT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "SPOT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "CNC",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "EPD",
+    "date": "2026-04-28"
   }
 ]
