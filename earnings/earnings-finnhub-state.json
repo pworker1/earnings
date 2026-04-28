@@ -47882,5 +47882,41 @@
   {
     "symbol": "EPD",
     "date": "2026-04-28"
+  },
+  {
+    "symbol": "CURB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "AIT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "HRI",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "RITM",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "OMCL",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "KMB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "TRU",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "GM",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "CMS",
+    "date": "2026-04-28"
   }
 ]
