@@ -48766,5 +48766,33 @@
   {
     "symbol": "WING",
     "date": "2026-04-29"
+  },
+  {
+    "symbol": "CTS",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "EEFT",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "FSS",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "AVT",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "APH",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "SMG",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CRS",
+    "date": "2026-04-29"
   }
 ]
