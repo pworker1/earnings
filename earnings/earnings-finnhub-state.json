@@ -49294,5 +49294,61 @@
   {
     "symbol": "ACHC",
     "date": "2026-04-29"
+  },
+  {
+    "symbol": "TWI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "XEL",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "WCC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "SBSI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "CRH",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "MCHB",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "BC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "GPI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "TT",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "CHKP",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "AXTA",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "CARR",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "CI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "WTW",
+    "date": "2026-04-30"
   }
 ]
