@@ -49758,5 +49758,21 @@
   {
     "symbol": "SILC",
     "date": "2026-04-30"
+  },
+  {
+    "symbol": "FMCC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "IDCC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "IDA",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "NNN",
+    "date": "2026-04-30"
   }
 ]
