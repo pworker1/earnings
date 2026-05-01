@@ -50218,5 +50218,37 @@
   {
     "symbol": "RIVN",
     "date": "2026-04-30"
+  },
+  {
+    "symbol": "PFHO",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "PRLB",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "POR",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "BTSG",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "ARES",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "EL",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "CVX",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "LIN",
+    "date": "2026-05-01"
   }
 ]
