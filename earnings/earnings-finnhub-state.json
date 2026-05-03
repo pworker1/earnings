@@ -50394,5 +50394,301 @@
   {
     "symbol": "LBTYA",
     "date": "2026-05-01"
+  },
+  {
+    "symbol": "PII",
+    "date": "2026-04-27"
+  },
+  {
+    "symbol": "HLMN",
+    "date": "2026-04-27"
+  },
+  {
+    "symbol": "HNVR",
+    "date": "2026-04-27"
+  },
+  {
+    "symbol": "MRDN",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "EKSO",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "MBIN",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "SDA",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "EBMT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "BCAL",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "AIRE",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "SMBC",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "OBT",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "FNWD",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "WNEB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "STEL",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "ARCC",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "CBNA",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "DSGN",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "DBRG",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "RVSB",
+    "date": "2026-04-28"
+  },
+  {
+    "symbol": "SMHI",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "SNDL",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "ZENA",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CBIO",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "USLM",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "BIPC",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "NWE",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "TTI",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "OGE",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "MFIN",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "MCW",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "TPH",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CZFS",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CCB",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CWT",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "CPF",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "SNCY",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "EAT",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "NTRB",
+    "date": "2026-04-29"
+  },
+  {
+    "symbol": "FBLG",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "GHC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "ACIU",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "SMP",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "ACR",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "RNAC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "BCYC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "SMMT",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "FET",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "OGN",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "NECB",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "ENSG",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "TFSL",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "ZETA",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "PFIS",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "AROW",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "RRBI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "FXNC",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "DFH",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "MLCO",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "TXT",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "ALGT",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "SAFE",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "NVNI",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "APD",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "BRNS",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "CELU",
+    "date": "2026-04-30"
+  },
+  {
+    "symbol": "NEXT",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "GNE",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "BEPC",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "GTES",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "ULH",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "TXNM",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "LAZ",
+    "date": "2026-05-01"
+  },
+  {
+    "symbol": "AON",
+    "date": "2026-05-01"
   }
 ]
