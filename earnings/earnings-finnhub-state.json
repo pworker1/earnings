@@ -51422,5 +51422,61 @@
   {
     "symbol": "AEP",
     "date": "2026-05-05"
+  },
+  {
+    "symbol": "TSAT",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "SQNS",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "DRS",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "SHO",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "CIFR",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "ET",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "LIND",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "OCUL",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "PCOR",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "CMI",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "AGCO",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "TDG",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "SGRY",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "PEG",
+    "date": "2026-05-05"
   }
 ]
