@@ -51486,5 +51486,25 @@
   {
     "symbol": "BTU",
     "date": "2026-05-05"
+  },
+  {
+    "symbol": "GBLI",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "SWX",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "AVA",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "IPGP",
+    "date": "2026-05-05"
+  },
+  {
+    "symbol": "PTLO",
+    "date": "2026-05-05"
   }
 ]
