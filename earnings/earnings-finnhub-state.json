@@ -52318,5 +52318,77 @@
   {
     "symbol": "EPC",
     "date": "2026-05-06"
+  },
+  {
+    "symbol": "RXRX",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "ITT",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "TBLA",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "PRGO",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "FRPT",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "BLMN",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "ELAN",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "UTZ",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "QSR",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "BRKR",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "CVS",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "APO",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "DIS",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "KMT",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "TECH",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "BWA",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "UTHR",
+    "date": "2026-05-06"
+  },
+  {
+    "symbol": "COR",
+    "date": "2026-05-06"
   }
 ]
