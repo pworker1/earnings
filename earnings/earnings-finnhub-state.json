@@ -54190,5 +54190,49 @@
   {
     "symbol": "ALGM",
     "date": "2026-05-07"
+  },
+  {
+    "symbol": "INTR",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "LILA",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "SABR",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "CCLD",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "VCEL",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "AFCG",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "GOGO",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "INSE",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "SRE",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "CNR",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "XIFR",
+    "date": "2026-05-07"
   }
 ]
