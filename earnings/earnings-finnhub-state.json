@@ -55342,5 +55342,33 @@
   {
     "symbol": "EGY",
     "date": "2026-05-07"
+  },
+  {
+    "symbol": "ZNOG",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "REFR",
+    "date": "2026-05-07"
+  },
+  {
+    "symbol": "TILE",
+    "date": "2026-05-08"
+  },
+  {
+    "symbol": "AU",
+    "date": "2026-05-08"
+  },
+  {
+    "symbol": "JOUT",
+    "date": "2026-05-08"
+  },
+  {
+    "symbol": "CNTY",
+    "date": "2026-05-08"
+  },
+  {
+    "symbol": "FLR",
+    "date": "2026-05-08"
   }
 ]
