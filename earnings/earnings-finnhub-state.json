@@ -58310,5 +58310,1033 @@
   {
     "symbol": "LTRN",
     "date": "2026-05-15"
+  },
+  {
+    "symbol": "EIKN",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "AKTS",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "FLYX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "ABAT",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "ALCO",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "LGL",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "EVI",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "FBRX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "CNNE",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "MAIA",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "ACXP",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SCYX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "MGX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "AVBP",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "COCH",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SMTI",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "ABCL",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "KORE",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "GANX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SAMG",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "CPRX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SNDA",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "ARVN",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "GHI",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SEPN",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "UDMY",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "AMPY",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "NOTV",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "DYN",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "CWCO",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "FFIC",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "LIF",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SKYE",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "LXEO",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SCM",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "NTLA",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "AGRO",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "GDOT",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "BIOX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "HFFG",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "PLRX",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SATS",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "BW",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "KZR",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "GTLS",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "MYPS",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "TALK",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "AURA",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "SANA",
+    "date": "2026-05-11"
+  },
+  {
+    "symbol": "MWH",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "CALC",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "SNWV",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "XOMA",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "WWR",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PALI",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "ESP",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "DMRA",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PZG",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "ATRA",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "TGEN",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "NUWE",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "IBIO",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "SLS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "KYTX",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "IRD",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "MAZE",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "ASTL",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "OBIO",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "SST",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PEPG",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "COYA",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "IFS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "CRIS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "CNDT",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "GIFT",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "CRBP",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "GCTS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "OVID",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "REED",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "ANAB",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "NGNE",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PRQR",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PAGS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "SGMT",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "SVRA",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "PHVS",
+    "date": "2026-05-12"
+  },
+  {
+    "symbol": "ATCH",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "PARK",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "AZTR",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "CCIRU",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "KAPA",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "FOSL",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "PTN",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "APVO",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ARMP",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "WATT",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ACON",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "MBOT",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ZBIO",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ACRV",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "AVTX",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "TARA",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "VANI",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ELDN",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "LIQT",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "FATE",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ABUS",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ACET",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "INO",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "TBN",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ORKA",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "VERU",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "UPB",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "TYRA",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ATAT",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "DRIO",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "ANRO",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "LUCD",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "IPSC",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "RLYB",
+    "date": "2026-05-13"
+  },
+  {
+    "symbol": "NWTG",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ROC",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MRLN",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "GXAI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "RNA",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CTNT",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "VMET",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "SGP",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CYCU",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MPLT",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "LAC",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "NXGL",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MDCX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "SNTI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ODYS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ASST",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "QMCI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MNOV",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "INUV",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "BKTI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "PAVM",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "YCBD",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "SER",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CNSP",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "LSF",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "GOVX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CADL",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "BTCS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "FGI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "BBLG",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "IDR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "AURX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MTVA",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MBRX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "EDSA",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "VNRX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "GHRS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ACTU",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "INBX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CING",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "BRTX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MNPR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ONDS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "AIRJ",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ASNS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "LUCY",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "SNYR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "STEX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "MGTX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "SCOR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CLNN",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CMMB",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "RCMT",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "IDAI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "XTIA",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "NB",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "KALV",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "DDS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "FTLF",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CLRB",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "BNTC",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "DC",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CTGO",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "POET",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "STRO",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CDZI",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "DOX",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "NFE",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "ALMS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "TPST",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CABA",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "JSPR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "LRMR",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "KROS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "CRDF",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "PYXS",
+    "date": "2026-05-14"
+  },
+  {
+    "symbol": "USCTF",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SAFX",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BHAC",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SLXN",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "PROK",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ATHR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "NTHI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ZSPC",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ARAI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SPAI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "NEUP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ALUR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ALLR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BLGO",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "AIM",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "MRKR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "RNTX",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BLNE",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BOXL",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SCNX",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SNSE",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "GTBP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "KTTA",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "TNON",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "CLIR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "GALT",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "CTOR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "FORA",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "COCP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "RCT",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "TIL",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "IMRX",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BIRD",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ANVS",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BNZI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "KSCP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "LMFA",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SINT",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "NDRA",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "NRXP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "VYNE",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "PSTV",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "CRVO",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ENSC",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "SXTP",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BTAI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "OTLK",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "FKWL",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "HURA",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BLIN",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "PPSI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "ATYR",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "NEOV",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "IXHL",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "BTBT",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "DUOT",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "CASI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "DAN",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "RANI",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "GOSS",
+    "date": "2026-05-15"
+  },
+  {
+    "symbol": "CHAI",
+    "date": "2026-05-15"
   }
 ]
