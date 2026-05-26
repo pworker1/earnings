@@ -59962,5 +59962,29 @@
   {
     "symbol": "FRO",
     "date": "2026-05-22"
+  },
+  {
+    "symbol": "FINV",
+    "date": "2026-05-25"
+  },
+  {
+    "symbol": "JOYY",
+    "date": "2026-05-25"
+  },
+  {
+    "symbol": "STG",
+    "date": "2026-05-26"
+  },
+  {
+    "symbol": "PONY",
+    "date": "2026-05-26"
+  },
+  {
+    "symbol": "YSG",
+    "date": "2026-05-26"
+  },
+  {
+    "symbol": "VNET",
+    "date": "2026-05-26"
   }
 ]
