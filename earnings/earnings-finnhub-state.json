@@ -60606,5 +60606,101 @@
   {
     "symbol": "GASS",
     "date": "2026-06-05"
+  },
+  {
+    "symbol": "BRUN",
+    "date": "2026-06-01"
+  },
+  {
+    "symbol": "NAT",
+    "date": "2026-06-01"
+  },
+  {
+    "symbol": "YSWY",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "PDCC",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "TIGR",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "CTRN",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "YEXT",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "GME",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "PETS",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "IVF",
+    "date": "2026-06-02"
+  },
+  {
+    "symbol": "MMED",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "AERO",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "PVH",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "TLYS",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "VIRC",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "FIVE",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "OLLI",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "M",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "THO",
+    "date": "2026-06-03"
+  },
+  {
+    "symbol": "XE",
+    "date": "2026-06-04"
+  },
+  {
+    "symbol": "GLSI",
+    "date": "2026-06-04"
+  },
+  {
+    "symbol": "CAL",
+    "date": "2026-06-04"
+  },
+  {
+    "symbol": "ZUMZ",
+    "date": "2026-06-04"
+  },
+  {
+    "symbol": "LULU",
+    "date": "2026-06-04"
   }
 ]
