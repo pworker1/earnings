@@ -61210,5 +61210,29 @@
   {
     "symbol": "LNN",
     "date": "2026-07-02"
+  },
+  {
+    "symbol": "BENF",
+    "date": "2026-06-29"
+  },
+  {
+    "symbol": "PMNT",
+    "date": "2026-06-29"
+  },
+  {
+    "symbol": "RDZN",
+    "date": "2026-06-29"
+  },
+  {
+    "symbol": "REPL",
+    "date": "2026-06-29"
+  },
+  {
+    "symbol": "NKE",
+    "date": "2026-06-30"
+  },
+  {
+    "symbol": "GIS",
+    "date": "2026-07-01"
   }
 ]
