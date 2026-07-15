@@ -61362,5 +61362,41 @@
   {
     "symbol": "LOOP",
     "date": "2026-07-14"
+  },
+  {
+    "symbol": "GLMD",
+    "date": "2026-07-08"
+  },
+  {
+    "symbol": "BNED",
+    "date": "2026-07-09"
+  },
+  {
+    "symbol": "SOTK",
+    "date": "2026-07-09"
+  },
+  {
+    "symbol": "AERO",
+    "date": "2026-07-13"
+  },
+  {
+    "symbol": "CRMT",
+    "date": "2026-07-14"
+  },
+  {
+    "symbol": "HCA",
+    "date": "2026-07-14"
+  },
+  {
+    "symbol": "IBM",
+    "date": "2026-07-14"
+  },
+  {
+    "symbol": "SPCB",
+    "date": "2026-07-14"
+  },
+  {
+    "symbol": "UNTY",
+    "date": "2026-07-14"
   }
 ]
