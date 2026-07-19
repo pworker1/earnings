@@ -61622,5 +61622,45 @@
   {
     "symbol": "CCBC",
     "date": "2026-07-17"
+  },
+  {
+    "symbol": "VIRT",
+    "date": "2026-07-14"
+  },
+  {
+    "symbol": "CAG",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "CTBI",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "PGR",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "PLBC",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "SIFY",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "WINA",
+    "date": "2026-07-15"
+  },
+  {
+    "symbol": "BVN",
+    "date": "2026-07-16"
+  },
+  {
+    "symbol": "LCNB",
+    "date": "2026-07-16"
+  },
+  {
+    "symbol": "CSAI",
+    "date": "2026-07-17"
   }
 ]
