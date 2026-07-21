@@ -61798,5 +61798,25 @@
   {
     "symbol": "MSCI",
     "date": "2026-07-21"
+  },
+  {
+    "symbol": "CCBG",
+    "date": "2026-07-21"
+  },
+  {
+    "symbol": "MRSH",
+    "date": "2026-07-21"
+  },
+  {
+    "symbol": "NOC",
+    "date": "2026-07-21"
+  },
+  {
+    "symbol": "VICR",
+    "date": "2026-07-21"
+  },
+  {
+    "symbol": "VMI",
+    "date": "2026-07-21"
   }
 ]
