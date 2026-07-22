@@ -61994,5 +61994,45 @@
   {
     "symbol": "RPM",
     "date": "2026-07-22"
+  },
+  {
+    "symbol": "CME",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "FBP",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "HCSG",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "MCO",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "NTRS",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "ONB",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "OTLY",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "PM",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "SF",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "TDY",
+    "date": "2026-07-22"
   }
 ]
