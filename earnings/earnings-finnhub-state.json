@@ -62282,5 +62282,61 @@
   {
     "symbol": "WH",
     "date": "2026-07-22"
+  },
+  {
+    "symbol": "CASH",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "EFSC",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "EGBN",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "FBNC",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "HYFT",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "LBRT",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "OBK",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "OII",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "OSBC",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "PKG",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "PNFP",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "RGP",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "UVSP",
+    "date": "2026-07-22"
+  },
+  {
+    "symbol": "WEX",
+    "date": "2026-07-22"
   }
 ]
