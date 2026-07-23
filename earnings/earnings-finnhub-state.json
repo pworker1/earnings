@@ -62338,5 +62338,53 @@
   {
     "symbol": "WEX",
     "date": "2026-07-22"
+  },
+  {
+    "symbol": "ALLE",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "CLF",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "CMCSA",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "DOW",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "FCFS",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "HON",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "IBCP",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "PCG",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "RTX",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "TECK",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "THRM",
+    "date": "2026-07-23"
+  },
+  {
+    "symbol": "TMO",
+    "date": "2026-07-23"
   }
 ]
