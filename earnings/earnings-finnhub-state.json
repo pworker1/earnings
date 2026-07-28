@@ -63378,5 +63378,41 @@
   {
     "symbol": "UPS",
     "date": "2026-07-28"
+  },
+  {
+    "symbol": "CMS",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "CURB",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "DINO",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "HRI",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "INIO",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "RCL",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "TRU",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "TXT",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "XPRO",
+    "date": "2026-07-28"
   }
 ]
