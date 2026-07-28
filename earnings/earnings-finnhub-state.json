@@ -63426,5 +63426,77 @@
   {
     "symbol": "RITM",
     "date": "2026-07-28"
+  },
+  {
+    "symbol": "KRC",
+    "date": "2026-07-27"
+  },
+  {
+    "symbol": "ABG",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "ALKS",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "AMT",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "GLW",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "INCY",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "IQV",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "IVZ",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "JBLU",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "KO",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "OSK",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "PJT",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "PYPL",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "RGEN",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "RWT",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "SHW",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "SPGI",
+    "date": "2026-07-28"
+  },
+  {
+    "symbol": "XYL",
+    "date": "2026-07-28"
   }
 ]
